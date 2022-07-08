@@ -4,4 +4,4 @@
 
 ### Estructura del Sitio Web
 
-![img ML](https://radiografica.org.ar/wp-content/uploads/2021/05/mercado-libre-750x495.jpg)
+![img ML](imagen.png)
